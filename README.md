@@ -29,5 +29,7 @@ No side effects
 Also, a log file is required for the purpose of monitoring the flow of the program and for debugging.
 
 # Logs Engine Output
-![image](https://github.com/MohamedKaram97/Discount-Qualifier-Using-Scala/assets/154819767/84209c87-35f3-4447-8401-08cbba324f56)
+
+![image](https://github.com/MohamedKaram97/Discount-Qualifier-Using-Scala/assets/154819767/d886cc05-95d5-4aa2-a06c-edcd25152898)
+
 
